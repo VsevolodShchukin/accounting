@@ -1,0 +1,6 @@
+item_name	is_expense	quantity	sum_of_one
+Apple	TRUE	1123	10
+Orange	TRUE	34	4
+Cucumber	TRUE	210	2
+Banana	FALSE	123	501
+Lemon	FALSE	131	5131

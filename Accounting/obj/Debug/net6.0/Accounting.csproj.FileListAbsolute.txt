@@ -1,0 +1,15 @@
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/bin/Debug/net6.0/Accounting
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/bin/Debug/net6.0/Accounting.deps.json
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/bin/Debug/net6.0/Accounting.runtimeconfig.json
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/bin/Debug/net6.0/Accounting.dll
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/bin/Debug/net6.0/Accounting.pdb
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/Accounting.csproj.AssemblyReference.cache
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/Accounting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/Accounting.AssemblyInfoInputs.cache
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/Accounting.AssemblyInfo.cs
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/Accounting.csproj.CoreCompileInputs.cache
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/Accounting.dll
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/refint/Accounting.dll
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/Accounting.pdb
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/Accounting.genruntimeconfig.cache
+/Users/v.shchukin/RiderProjects/Accounting/Accounting/obj/Debug/net6.0/ref/Accounting.dll
